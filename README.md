@@ -1,7 +1,8 @@
-<div align=center> 
+<div align=left> 
 
-  #### EWHA Womans Univ.
-  #### Cyber Security major
+  #### Hwijung Cho
+  EWHA Womans Univ.
+  Cyber Security major
  
 
   #### Currently am learning
